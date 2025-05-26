@@ -24,13 +24,13 @@ padding-bottom: 30px;
 }
 
 .search-form-input {
-background-color: #f9f7fe;
-border: none;
-color: rgba(39, 33, 66, 0.4);
-font-size: 16px;
-padding: 20px;
-width: 75%;
-border-radius: 6px;
+    background-color: #f9f7fe;
+    border: none;
+    color: rgba(39, 33, 66, 0.4);
+    font-size: 16px;
+    padding: 20px;
+    width: 75%;
+    border-radius: 6px;
 }
 
 .search-form-button{
